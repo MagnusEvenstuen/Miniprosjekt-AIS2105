@@ -1,5 +1,4 @@
 # Miniprosjekt-AIS2105
-# Miniprosjekt-AIS2105
 ## Kjøring av kuba med qube_ws
 For å finne ut enhets navnet på kuba må man kjøre
 ```
